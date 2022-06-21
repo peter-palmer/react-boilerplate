@@ -1,0 +1,19 @@
+// Abstract files
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// Vendor Files
+@import "~bootstrap/scss/bootstrap";
+
+
+// Core files
+@import "core/typography";
+
+// Components
+
+// Layout
+
+// Sections
+
+// Pages
+@import "pages/home";
